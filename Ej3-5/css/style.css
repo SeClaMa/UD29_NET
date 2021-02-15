@@ -1,0 +1,21 @@
+li{
+    list-style-type:none;
+}
+h1{
+    background-color: rgb(235, 219, 131);
+    max-width:40%;
+    color: grey;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: x-large;
+}
+h2{
+    font-size: xx-large;
+    font-family:'Arial Narrow Bold';
+    font-style: italic;
+    color: rgb(100, 141, 228);
+}
+
+span{
+    color: rgb(0, 76, 139);
+    font-style: italic;
+}

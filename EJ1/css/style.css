@@ -1,0 +1,20 @@
+body{
+   background-color: rgb(220, 242, 243);
+}
+h1{
+    font-family: 'Arial Black', Gadget, sans-serif;
+    color: rgb(37, 61, 133);
+}
+h3{
+	font-family: 'Arial Black', Gadget, sans-serif;
+    font-style: italic;
+    color: rgb(37, 61, 133);
+}
+p{
+    color: rgb(25, 25, 78);
+    font-style: oblique;
+}
+li{
+    color: rgb(25, 25, 78);
+    font-style: oblique;
+}
